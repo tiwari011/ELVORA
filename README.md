@@ -99,8 +99,7 @@ text
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_key
-JWT_EXPIRE=7d
+
 
 RAZORPAY_KEY_ID=your_key
 RAZORPAY_KEY_SECRET=your_secret
